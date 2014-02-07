@@ -5,8 +5,7 @@
 
 Just:
 
-`cd path/to/your/app`
-`padrino_gen plugin camorra`
+`cd path/to/your/app && padrino_gen plugin camorra`
 
 ***
 
