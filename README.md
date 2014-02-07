@@ -1,11 +1,15 @@
-####CAMORRA (v1.0)
+####CAMORRA (v1.1)
 ***
 
 ###### INSTALL INSTRUCTIONS:
 
-Just:
+**IMPORTANT: YOUR APP SHOULD USE COMPASS.**
 
 `cd path/to/your/app && padrino_gen plugin camorra`
+
+If your app doesn't use `compass` by default, it's easy to add it before importing the plugin.
+
+`cd path/to/your/app && padrino gen component -c compass && padrino_gen plugin camorra`
 
 ***
 
