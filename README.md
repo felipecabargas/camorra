@@ -1,7 +1,7 @@
 ####CAMORRA (v1.0)
 ***
 
-####### INSTALL INSTRUCTIONS:
+###### INSTALL INSTRUCTIONS:
 
 Just:
 
@@ -9,4 +9,4 @@ Just:
 
 ***
 
-*2014 - No f*cking copyrights. Please feel free to contribute. - Developed by Felipe Cabargas M. <felipe@cabargas.com> *
+*2014 - No fucking copyrights. Please feel free to contribute. - Developed by Felipe Cabargas M. <felipe@cabargas.com> *
