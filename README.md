@@ -9,5 +9,4 @@ Just:
 
 ***
 
-*2014 - No f*cking copyrights. Please feel free to contribute.*
-Felipe Cabargas M. <felipe@cabargas.com>
+*2014 - No f*cking copyrights. Please feel free to contribute. - Developed by Felipe Cabargas M. <felipe@cabargas.com> *
