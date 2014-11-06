@@ -1,6 +1,12 @@
 ####CAMORRA (v1.1)
 ***
 
+###### DEVELOPER INFO:
+
+This version of *camorra-plugin* contains ZURB Foundation v5.1.0.0 and is intended to be used along with padrino.
+
+Current version of the plugin is available in [padrino/padrino-recipes](https://github.com/padrino/padrino-recipes repository).
+
 ###### INSTALL INSTRUCTIONS:
 
 **IMPORTANT: YOUR APP SHOULD USE COMPASS.**
